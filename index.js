@@ -85,7 +85,7 @@ function Quiz(questions) {
     new Question("2. Which language is used for styling web pages?", ["HTML", "JQuery", "CSS", "XML"], "CSS"),
     new Question("3. Which is not a JavaScript Framework?", ["Python Script", "JQuery","Django", "NodeJS"], "Django"),
     new Question("4. Which is used for Connect To Database?", ["PHP", "HTML", "JS", "All"], "PHP"),
-    new Question("5. JavaScript is a ", ["Language", "Programming Language", "D  lopment", "All"], "Programming Language")
+    new Question("5. JavaScript is a ", ["Language", "Programming Language", "Development", "All"], "Programming Language")
   ];
   
   // create quiz
